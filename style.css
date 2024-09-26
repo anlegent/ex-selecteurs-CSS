@@ -1,0 +1,46 @@
+/* 1. Multiverse */
+h2 {
+color: blue;
+}
+
+p {
+color: green;
+}
+
+a {
+color: red;
+}
+
+/* 2. Unique ID ou class ? */
+.important {
+font-weight: bold;
+}
+
+#unique {
+color: purple;
+}
+
+/* 3. Image secrète */
+img[alt="Une belle image"] {
+border: 5px dotted black;
+}
+
+a[title] {
+color: gold;
+}
+
+/* 4. Sélection de pseudo */
+
+a:hover {
+color: darkred;
+}
+
+a:visited {
+background-color: cyan;
+}
+
+/* 5. Sélection de pseudo */
+
+div > p {
+color: red;
+}
