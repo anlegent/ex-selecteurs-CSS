@@ -1,0 +1,12 @@
+/* 5. Sélection de pseudo 2 */
+div[class="container"] h2 {
+  background-color: blue;
+}
+
+div > p {
+  color: red;
+}
+
+p:only-child {
+  color: blue;
+}

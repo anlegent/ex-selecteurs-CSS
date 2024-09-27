@@ -1,0 +1,13 @@
+/* 4. Sélection de pseudo */
+a {
+  background-color: white;
+}
+
+a:hover {
+  color: darkred;
+  font-weight: bold;
+}
+
+a:visited {
+  background-color: cyan;
+}

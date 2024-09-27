@@ -1,0 +1,12 @@
+/* 2. Unique ID ou class ? */
+p {
+  color: green;
+}
+
+.important {
+  font-weight: bold;
+}
+
+#unique {
+  color: purple;
+}

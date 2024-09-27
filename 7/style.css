@@ -1,0 +1,12 @@
+/* 7. Pseudo-classes avancées et sélecteurs de groupes */
+li:first-child {
+  font-weight: bold;
+}
+
+li:nth-child(even) {
+  color: red;
+}
+
+li:last-child {
+  font-style: italic;
+}

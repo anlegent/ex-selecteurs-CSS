@@ -1,0 +1,7 @@
+/* 6. Sélecteurs adjacents et généraux */
+h3 + p {
+  font-style: italic;
+}
+p {
+  color: green;
+}

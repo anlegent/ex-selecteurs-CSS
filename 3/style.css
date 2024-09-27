@@ -1,0 +1,8 @@
+/* 3. Image secrète */
+img[alt="Une belle image"] {
+  border: 5px dotted black;
+}
+
+a[title] {
+  color: gold;
+}
