@@ -3,6 +3,6 @@ section > p[class="highlight"] {
   color: blue;
 }
 
- {
+h2 + h2 {
   text-decoration: underline;
 }
