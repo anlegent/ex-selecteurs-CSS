@@ -1,1 +1,8 @@
 /* 8. Pseudo-classes avancées et sélecteurs de groupes 2 */
+section > p[class="highlight"] {
+  color: blue;
+}
+
+ {
+  text-decoration: underline;
+}
